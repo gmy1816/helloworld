@@ -1,2 +1,3 @@
 # helloworld
-my firsy repository on github
+my firsy repository on github!
+I love :coffee:, :pizza:, and :dancer:.
